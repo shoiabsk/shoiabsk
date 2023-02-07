@@ -14,7 +14,7 @@ Hi, I'm Shoiab khan
 <hr>
 
 ```
-I-am-MRFREEZER07@github
+I-am-shoiabsk@github
 -------------------------
 💻 I am a java Developer and computer aided designer  
 📚 I have a Bachelors in mechanical engineering 
