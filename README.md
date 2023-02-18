@@ -2,7 +2,7 @@
 Hi, I'm Shoiab khan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/MRFREEZER07"> </a> 
+ <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/shoiabsk"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -56,13 +56,13 @@ I-am-shoiabsk@github
 
 |                                                                     Vishal's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=MRFREEZER07&show_icons=true&theme=algolia)              | 
+| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=shoiabsk&show_icons=true&theme=algolia)              | 
  
 
 
 |                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=MRFREEZER07&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRFREEZER07&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=shoiabsk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoiabsk&langs_count=8&theme=algolia&layout=compact) |
 
 
 
@@ -73,16 +73,15 @@ I-am-shoiabsk@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:mkarthikbaalaji@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:shoiabkhan2007@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.freelancer.com/u/karthik20092000">Fiverr</a> or <a href="https://www.linkedin.com/in/karthikbaalaji/">LinkedIn</a> to build and deploy your webapp on web.
+ <a href="https://www.linkedin.com/in/shoiab-khan/">LinkedIn</a> to build and deploy your webapp on web.
 
   </td>
   <td width="50%" valign="top">
 
 ## It's not perfect, isn't it?
 
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
