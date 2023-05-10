@@ -54,13 +54,13 @@ I-am-shoiabsk@github
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     shoiab Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=shoiabsk&show_icons=true&theme=algolia)              | 
+| ![shoiab's github stats](https://github-readme-stats.vercel.app/api?username=shoiabsk&show_icons=true&theme=algolia)              | 
  
 
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                    shoiab's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=shoiabsk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoiabsk&langs_count=8&theme=algolia&layout=compact) |
 
