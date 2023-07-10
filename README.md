@@ -20,7 +20,7 @@ I-am-shoiabsk@github
 📚 I have a Bachelors in mechanical engineering 
 📝 I have a strong interest in developer 
 🌱 Learning about iot
-🌟 Main languages: java ,c++
+🌟 Main languages: java ,sql
 🚩 Interested in ctf and Learning new things
 🎵 Love metal, lofi, jazz and soft music
 ```
