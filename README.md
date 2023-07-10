@@ -16,9 +16,9 @@ Hi, I'm Shoiab khan
 ```
 I-am-shoiabsk@github
 -------------------------
-💻 I am a java Developer and computer aided designer  
+💻 I am a java Developer   
 📚 I have a Bachelors in mechanical engineering 
-📝 I have a strong interest in devloper 
+📝 I have a strong interest in developer 
 🌱 Learning about iot
 🌟 Main languages: java ,c++
 🚩 Interested in ctf and Learning new things
